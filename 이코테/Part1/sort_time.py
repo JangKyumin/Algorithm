@@ -1,4 +1,4 @@
-from random import randint;
+from random import randint
 import time
 
 # 배열에 10,000개의 정수를 삽입
