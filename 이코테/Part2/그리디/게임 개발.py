@@ -13,6 +13,7 @@ map_array = []
 for i in range(n):
     map_array.append(list(map(int, input().split())))
 
+# 북, 동, 서, 남 방향 정의
 dx = [-1, 0, 1, 0]
 dy = [0, 1, 0, -1]
 
