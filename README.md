@@ -1,2 +1,6 @@
 # Algorithm
-A project for practicing algorithm and coding tests.
+
+### 부족한 점
+
+- 기본적인 구조는 구현이 가능하나 복잡한 배열로 넘어가게 되면 방향을 잡지 못한다.
+- 많이 풀어보면 도움이 될 것인가? 분명 도움은 되겠지만 이해하는게 중요하다.
