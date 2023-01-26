@@ -1,3 +1,2 @@
 def solution(my_string):
-    li = sorted(list(my_string.lower()))
-    return "".join(li)
+    return "".join(sorted(list(my_string.lower())))
